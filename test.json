@@ -1,0 +1,2672 @@
+{
+  "code": "0",
+  "data": {
+    "totalCount": 150,
+    "template": "pcfood",
+    "searchResult": [
+      {
+        "id": 191255930,
+        "template": "pcfood",
+        "imageUrl": "http://p1.meituan.net/w.h/joymerchant/e8b929583f04102b3de9939126fcf3f8--46840267.jpg",
+        "title": "圣宠宠物（昌平万科城店）",
+        "address": "昌平区城北街道创新园25号楼底商1-06（国一堂中医院斜对面；创客梦工厂对面）",
+        "lowestprice": 9.9,
+        "avgprice": 179.0,
+        "latitude": 40.207845,
+        "longitude": 116.236,
+        "showType": "easylife",
+        "avgscore": 5.0,
+        "comments": 28,
+        "historyCouponCount": 283,
+        "backCateName": "宠物店",
+        "areaname": "昌平镇",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [
+          {
+            "text": "",
+            "backgroundColor": null,
+            "borderColor": null,
+            "fontColor": null,
+            "icon": "http://p1.meituan.net/groupop/af71bbba0c83b6693e9f52645bb1cf3c660.png",
+            "message": "138元/券，小型犬专业美容服务，19元/券，首次到店洗澡体验套餐，46元/券，小型成年犬专业洗护套餐，98元/券，短毛猫专业洗护套餐，110元/券，大型成年犬专业洗护套餐"
+          }
+        ],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 55823002,
+            "title": "首次到店洗澡体验套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 19.8,
+            "value": 68.0,
+            "sales": 47.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55823350,
+            "title": "小型犬专业美容服务",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 138.0,
+            "value": 188.0,
+            "sales": 51.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55823901,
+            "title": "小型成年犬专业洗护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 46.0,
+            "value": 68.0,
+            "sales": 20.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55818940,
+            "title": "大型成年犬专业洗护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 110.0,
+            "value": 158.0,
+            "sales": 13.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55822930,
+            "title": "短毛猫专业洗护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 98.0,
+            "value": 138.0,
+            "sales": 15.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55821027,
+            "title": "小型犬刷牙套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 9.9,
+            "value": 39.0,
+            "sales": 6.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55823017,
+            "title": "中型成年犬专业洗护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 68.0,
+            "value": 88.0,
+            "sales": 8.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55820482,
+            "title": "小型犬洁牙SPA",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 238.0,
+            "value": 298.0,
+            "sales": 1.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 604656049,
+            "title": "长毛猫专业洗护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 138.0,
+            "value": 188.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 0,
+        "city": "",
+        "full": false
+      },
+      {
+        "id": 192809054,
+        "template": "pcfood",
+        "imageUrl": "http://p0.meituan.net/w.h/joymerchant/24cbabd8685f26ec2c9cbd7eea73a4b6-895136471.jpg",
+        "title": "ISPET爱尚宠物MINI站（四方店）",
+        "address": "丰台区北京丰台区四方景园2区6号楼底商ISPET爱尚宠物店",
+        "lowestprice": 10.0,
+        "avgprice": 0.0,
+        "latitude": 39.857414,
+        "longitude": 116.441548,
+        "showType": "easylife",
+        "avgscore": 4.0,
+        "comments": 0,
+        "historyCouponCount": 23,
+        "backCateName": "宠物店",
+        "areaname": "分钟寺/成寿寺",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [
+          {
+            "text": "",
+            "backgroundColor": null,
+            "borderColor": null,
+            "fontColor": null,
+            "icon": "http://p1.meituan.net/groupop/af71bbba0c83b6693e9f52645bb1cf3c660.png",
+            "message": "56元/券，小型犬特惠洗护套餐，120元/券，短毛猫洗护特惠，10元/券，特惠宠物自助SPA体验30分钟，120元/券，短毛猫洗护套餐特惠，148元/券，长毛猫洗护特惠"
+          }
+        ],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 56252865,
+            "title": "特惠宠物自助SPA体验30分钟",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 10.0,
+            "value": 60.0,
+            "sales": 1.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55771146,
+            "title": "小型犬特惠洗护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 56.0,
+            "value": 120.0,
+            "sales": 9.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55760283,
+            "title": "短毛猫洗护特惠",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 120.0,
+            "value": 168.0,
+            "sales": 4.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 56252938,
+            "title": "短毛猫洗护套餐特惠",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 120.0,
+            "value": 168.0,
+            "sales": 1.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 56252832,
+            "title": "小型犬SPA按摩套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 158.0,
+            "value": 258.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 56252857,
+            "title": "中型犬专业洗护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 88.0,
+            "value": 140.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55761352,
+            "title": "长毛猫洗护特惠",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 148.0,
+            "value": 238.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 0,
+        "city": "",
+        "full": false
+      },
+      {
+        "id": 169645984,
+        "template": "pcfood",
+        "imageUrl": "http://p1.meituan.net/w.h/joymerchant/ec1b084149b0bed5bfc05546c814265f--2032344414.jpg",
+        "title": "尖叫盒子BARK BOX宠物酒店",
+        "address": "大兴区育林街采育镇葡萄园博物馆旁",
+        "lowestprice": 5.0,
+        "avgprice": 973.0,
+        "latitude": 39.662131,
+        "longitude": 116.644377,
+        "showType": "easylife",
+        "avgscore": 5.0,
+        "comments": 0,
+        "historyCouponCount": 115,
+        "backCateName": "宠物店",
+        "areaname": "大兴区",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [
+          {
+            "text": "",
+            "backgroundColor": null,
+            "borderColor": null,
+            "fontColor": null,
+            "icon": "http://p1.meituan.net/groupop/af71bbba0c83b6693e9f52645bb1cf3c660.png",
+            "message": "299元/券，开心一“夏”---宠物乐园套餐，98元/券，碳酸深层洁浴spa，100元/券，园林房17㎡，75元/券，精品房6㎡，5元/券，宠物专车接送"
+          }
+        ],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 53748898,
+            "title": "宠物专车接送",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 5.0,
+            "value": 10.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55082876,
+            "title": "开心一“夏”---宠物乐园套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 299.0,
+            "value": 423.0,
+            "sales": 2.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55083245,
+            "title": "碳酸深层洁浴spa",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 98.0,
+            "value": 158.0,
+            "sales": 1.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 606191885,
+            "title": "主题豪华房",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 150.0,
+            "value": 300.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 50760946,
+            "title": "园林房17㎡",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 100.0,
+            "value": 200.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 50760959,
+            "title": "精品房6㎡",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 75.0,
+            "value": 150.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 1,
+        "city": "北京",
+        "full": false
+      },
+      {
+        "id": 191304928,
+        "template": "pcfood",
+        "imageUrl": "https://p0.meituan.net/w.h/merchantpic/29832862b8ed033b677ed3417edbbffe315564.jpg",
+        "title": "猫头英宠物工作室",
+        "address": "丰台区成寿寺路中海紫鑫阁134号院4号楼底商111号",
+        "lowestprice": 45.0,
+        "avgprice": 128.0,
+        "latitude": 39.845044,
+        "longitude": 116.448268,
+        "showType": "easylife",
+        "avgscore": 5.0,
+        "comments": 5,
+        "historyCouponCount": 121,
+        "backCateName": "宠物店",
+        "areaname": "分钟寺/成寿寺",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [
+          {
+            "text": "",
+            "backgroundColor": null,
+            "borderColor": null,
+            "fontColor": null,
+            "icon": "http://p1.meituan.net/groupop/af71bbba0c83b6693e9f52645bb1cf3c660.png",
+            "message": "129元/券，小型犬美容A套餐 爱犬岛洗护，180元/券，猫咪 剃毛 洗澡套餐-狮子装，50元/券，猫咪寄养，110元/券，美国顶间洗护 猫咪洗澡套餐，45元/券，小型犬洗澡A套餐 爱犬岛洗护"
+          }
+        ],
+        "dangleAbstracts": null,
+        "titleTags": [
+          "http://p0.meituan.net/codeman/a1af36edb271ae6ec74e36cde05d1ac8851.png"
+        ],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 601368261,
+            "title": "猫咪 剃毛 洗澡套餐-狮子装",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 180.0,
+            "value": 390.0,
+            "sales": 12.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55862035,
+            "title": "小型犬美容A套餐 爱犬岛洗护",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 129.0,
+            "value": 285.0,
+            "sales": 14.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55862236,
+            "title": "美国顶间洗护 猫咪洗澡套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 110.0,
+            "value": 195.0,
+            "sales": 6.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55853247,
+            "title": "小型犬洗澡A套餐 爱犬岛洗护",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 45.0,
+            "value": 150.0,
+            "sales": 4.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 56781033,
+            "title": "猫咪寄养",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 50.0,
+            "value": 70.0,
+            "sales": 7.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 56811852,
+            "title": "小型犬洗澡B套餐 爱犬岛洗护",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 55.0,
+            "value": 140.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 56813805,
+            "title": "中型犬洗澡C套餐 爱犬岛洗护",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 65.0,
+            "value": 150.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 63755974,
+            "title": "小中型犬美容B套餐 爱犬岛",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 159.0,
+            "value": 295.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 1,
+        "city": "北京",
+        "full": false
+      },
+      {
+        "id": 157269880,
+        "template": "pcfood",
+        "imageUrl": "http://p1.meituan.net/w.h/joymerchant/4674460950543990658-25994741-1545385561000.jpg",
+        "title": "实丽派宠物·宠物销售",
+        "address": "朝阳区弘燕路美景东方16号楼4号底商（山水文园中园北门马路对面）",
+        "lowestprice": 56.0,
+        "avgprice": 220.0,
+        "latitude": 39.868417,
+        "longitude": 116.469425,
+        "showType": "easylife",
+        "avgscore": 4.1,
+        "comments": 16,
+        "historyCouponCount": 695,
+        "backCateName": "宠物店",
+        "areaname": "潘家园",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [
+          {
+            "text": "",
+            "backgroundColor": null,
+            "borderColor": null,
+            "fontColor": null,
+            "icon": "http://p1.meituan.net/groupop/af71bbba0c83b6693e9f52645bb1cf3c660.png",
+            "message": "56元/券，小型犬精洗精护套餐，116元/券，短毛猫精洗精护套餐，176元/券，小型犬B级美容精修造型，145元/券，-大型犬，190元/券，-大型犬"
+          }
+        ],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 47846718,
+            "title": "小型犬精洗精护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 56.0,
+            "value": 70.0,
+            "sales": 41.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 50598971,
+            "title": "小型犬B级美容精修造型",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 176.0,
+            "value": 220.0,
+            "sales": 28.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 47846716,
+            "title": "短毛猫精洗精护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 116.0,
+            "value": 140.0,
+            "sales": 29.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 47846704,
+            "title": "小型犬洁牙SPA+精洗套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 335.0,
+            "value": 420.0,
+            "sales": 1.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 47846708,
+            "title": "大型犬（中毛）精洗精护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 145.0,
+            "value": 180.0,
+            "sales": 10.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 47846706,
+            "title": "大型犬（长毛）精洗精护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 190.0,
+            "value": 240.0,
+            "sales": 3.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 47846711,
+            "title": "大型犬（短毛）精洗精护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 115.0,
+            "value": 140.0,
+            "sales": 3.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55034702,
+            "title": "长毛猫精洗精护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 146.0,
+            "value": 180.0,
+            "sales": 2.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 47846724,
+            "title": "A级美容师日韩造型精修",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 298.0,
+            "value": 350.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 56809118,
+            "title": "猫咪剃毛+洗澡套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 259.0,
+            "value": 280.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 1,
+        "city": "北京",
+        "full": false
+      },
+      {
+        "id": 190551903,
+        "template": "pcfood",
+        "imageUrl": "https://p0.meituan.net/w.h/merchantpic/10a3eea0bf6d8515fb1f4d9fd57818a6447961.jpg",
+        "title": "萌宠度假村",
+        "address": "通州区大耕垡村北辛店路与于小路交叉口南行300米路西",
+        "lowestprice": 30.0,
+        "avgprice": 0.0,
+        "latitude": 39.73525,
+        "longitude": 116.717975,
+        "showType": "easylife",
+        "avgscore": 0.0,
+        "comments": 0,
+        "historyCouponCount": 0,
+        "backCateName": "宠物店",
+        "areaname": "通州区",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [
+          {
+            "text": "",
+            "backgroundColor": null,
+            "borderColor": null,
+            "fontColor": null,
+            "icon": "http://p1.meituan.net/groupop/af71bbba0c83b6693e9f52645bb1cf3c660.png",
+            "message": "5000元/券，萌宠二期预售卡6000档/六折，75元/券，大型犬寄养，55元/券，-宠物乐园门票，80元/券，-宠物游泳，55元/券，中型犬寄养"
+          }
+        ],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 605183562,
+            "title": "宠物游泳（全犬种）",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 80.0,
+            "value": 180.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 605183550,
+            "title": "宠物乐园门票（大型犬）",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 55.0,
+            "value": 120.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 605185854,
+            "title": "宠物乐园门票（中小型犬）",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 35.0,
+            "value": 100.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 605178913,
+            "title": "大型犬寄养",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 75.0,
+            "value": 150.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 605184910,
+            "title": "中型犬寄养",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 55.0,
+            "value": 110.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 605186646,
+            "title": "小型犬寄养",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 30.0,
+            "value": 60.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 605186666,
+            "title": "中型犬洗澡",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 70.0,
+            "value": 140.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 605187610,
+            "title": "小型犬洗澡",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 50.0,
+            "value": 100.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 605188446,
+            "title": "大型犬洗澡",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 90.0,
+            "value": 180.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55315915,
+            "title": "萌宠二期预售卡6000档/六折",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 5000.0,
+            "value": 6000.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 0,
+        "city": "",
+        "full": false
+      },
+      {
+        "id": 193218528,
+        "template": "pcfood",
+        "imageUrl": "https://p0.meituan.net/w.h/merchantpic/40f9bdd191bb1822e443c7c35adaa2e8282137.jpg",
+        "title": "熊小胖宠物生活馆",
+        "address": "大兴区北京经济技术开发区天华园一里四区10号楼3108一层底商南侧02室",
+        "lowestprice": 55.0,
+        "avgprice": 274.0,
+        "latitude": 39.797389,
+        "longitude": 116.492985,
+        "showType": "easylife",
+        "avgscore": 4.5,
+        "comments": 1,
+        "historyCouponCount": 21,
+        "backCateName": "宠物店",
+        "areaname": "亦庄",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [
+          {
+            "text": "",
+            "backgroundColor": null,
+            "borderColor": null,
+            "fontColor": null,
+            "icon": "http://p1.meituan.net/groupop/af71bbba0c83b6693e9f52645bb1cf3c660.png",
+            "message": "90元/券，美容限时折扣-A类犬-美容造型，85元/券，B类犬-洗澡，55元/券，A类犬-洗澡，110元/券，C类犬-洗澡，140元/券，D类犬-洗澡"
+          }
+        ],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 604490952,
+            "title": "美容限时折扣-A类犬-美容造型",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 90.0,
+            "value": 120.0,
+            "sales": 7.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 61150878,
+            "title": "B类犬-洗澡",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 85.0,
+            "value": 90.0,
+            "sales": 1.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 56818042,
+            "title": "A类犬-洗澡",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 55.0,
+            "value": 60.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 61159421,
+            "title": "C类犬-洗澡",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 110.0,
+            "value": 120.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 61247878,
+            "title": "D类犬-洗澡",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 140.0,
+            "value": 150.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 61259406,
+            "title": "E类犬-洗澡",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 170.0,
+            "value": 180.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 61274575,
+            "title": "短毛猫咪洗护",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 130.0,
+            "value": 140.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 61282919,
+            "title": "长毛猫咪洗护",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 150.0,
+            "value": 160.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 64863846,
+            "title": "短毛猫咪修剪剃毛",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 250.0,
+            "value": 265.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 64885138,
+            "title": "长毛猫咪修剪/剃毛",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 270.0,
+            "value": 285.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 0,
+        "city": "",
+        "full": false
+      },
+      {
+        "id": 165350957,
+        "template": "pcfood",
+        "imageUrl": "https://p0.meituan.net/w.h/merchantpic/fe1bcfd02faf84b9a34dcd859e8004931019225.jpg",
+        "title": "MR·章私宠馆·宠物销售",
+        "address": "朝阳区延静里中街华业玫瑰东方底商24号商铺（海骝马小酒屋旁边）",
+        "lowestprice": 50.0,
+        "avgprice": 183.0,
+        "latitude": 39.918978,
+        "longitude": 116.484814,
+        "showType": "easylife",
+        "avgscore": 4.7,
+        "comments": 22,
+        "historyCouponCount": 613,
+        "backCateName": "宠物店",
+        "areaname": "团结湖/朝阳公园",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [
+          {
+            "text": "",
+            "backgroundColor": null,
+            "borderColor": null,
+            "fontColor": null,
+            "icon": "http://p1.meituan.net/groupop/af71bbba0c83b6693e9f52645bb1cf3c660.png",
+            "message": "110元/券，猫咪精品洗护套餐，160元/券，小型犬美容剪毛高级护理套餐，58元/券，小型犬精品洗护套餐，259元/券，猫咪精品剃毛洗护套餐，128元/券，中大型犬精品洗护套餐"
+          }
+        ],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 49527647,
+            "title": "猫咪精品洗护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 110.0,
+            "value": 150.0,
+            "sales": 62.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 49584860,
+            "title": "小型犬美容剪毛高级护理套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 160.0,
+            "value": 260.0,
+            "sales": 35.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 49584839,
+            "title": "小型犬精品洗护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 58.0,
+            "value": 100.0,
+            "sales": 31.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 49642472,
+            "title": "猫咪精品剃毛洗护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 259.0,
+            "value": 298.0,
+            "sales": 11.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 49584851,
+            "title": "中大型犬精品洗护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 128.0,
+            "value": 220.0,
+            "sales": 8.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 49584879,
+            "title": "小型犬深海盐浴玫瑰花spa套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 118.0,
+            "value": 260.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55722832,
+            "title": "猫猫寄养套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 50.0,
+            "value": 100.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 49584894,
+            "title": "小型犬精油玫瑰花spa套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 158.0,
+            "value": 260.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 49584903,
+            "title": "中大型犬寄养套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 90.0,
+            "value": 100.0,
+            "sales": 7.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 49584913,
+            "title": "小型犬去除牙结石SPA套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 258.0,
+            "value": 298.0,
+            "sales": 2.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 1,
+        "city": "北京",
+        "full": false
+      },
+      {
+        "id": 193458791,
+        "template": "pcfood",
+        "imageUrl": "http://p1.meituan.net/w.h/joymerchant/3f4cd0d384c340253e1fd9499f078546-1091701323.jpg",
+        "title": "Wonderland奇境宠物",
+        "address": "昌平区中东路5号院润枫欣尚6号楼108（北京上善医院）",
+        "lowestprice": 9.0,
+        "avgprice": 205.0,
+        "latitude": 40.056212,
+        "longitude": 116.411882,
+        "showType": "easylife",
+        "avgscore": 5.0,
+        "comments": 3,
+        "historyCouponCount": 88,
+        "backCateName": "宠物店",
+        "areaname": "天通苑",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [
+          {
+            "text": "",
+            "backgroundColor": null,
+            "borderColor": null,
+            "fontColor": null,
+            "icon": "http://p1.meituan.net/groupop/af71bbba0c83b6693e9f52645bb1cf3c660.png",
+            "message": "120元/券，猫狗消毒洗Sterilizing Bath，269元/券，猫咪剃毛Cat Deshedding，179元/券，泰迪博美美容Pet Grooming，129元/券，小型犬基础造型，120元/券，宠物摄影Pet Photography"
+          }
+        ],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 57258145,
+            "title": "宠物摄影Pet Photography",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 120.0,
+            "value": 289.0,
+            "sales": 1.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 57258553,
+            "title": "猫狗消毒洗Sterilizing Bath",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 120.0,
+            "value": 223.0,
+            "sales": 11.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 64898277,
+            "title": "泰迪博美美容Pet Grooming",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 179.0,
+            "value": 591.0,
+            "sales": 4.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 68553570,
+            "title": "猫咪剃毛Cat Deshedding",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 269.0,
+            "value": 548.0,
+            "sales": 5.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 602022872,
+            "title": "小型犬基础造型",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 129.0,
+            "value": 338.0,
+            "sales": 2.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 67670865,
+            "title": "小型猫犬寄养Pet Boarding",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 99.0,
+            "value": 239.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 606605019,
+            "title": "高端猫狗美毛洗Beauty Bath",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 120.0,
+            "value": 223.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 600882151,
+            "title": "静音日光浴烘干箱",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 20.0,
+            "value": 30.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 601443330,
+            "title": "中大型犬洗护 Big Dog Bath",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 169.0,
+            "value": 258.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 601830081,
+            "title": "30分钟祛浮毛梳理",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 49.0,
+            "value": 55.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 0,
+        "city": "",
+        "full": false
+      },
+      {
+        "id": 190749816,
+        "template": "pcfood",
+        "imageUrl": "http://p0.meituan.net/w.h/joymerchant/0b4e45a2c5347ee97ab86c643ed69175--14960720.jpg",
+        "title": "哈喽萌宠乐园宠物寄养",
+        "address": "房山区青龙湖镇岗上村",
+        "lowestprice": 60.0,
+        "avgprice": 0.0,
+        "latitude": 39.760505,
+        "longitude": 116.064566,
+        "showType": "easylife",
+        "avgscore": 4.0,
+        "comments": 0,
+        "historyCouponCount": 1,
+        "backCateName": "宠物店",
+        "areaname": "阎村",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [
+          {
+            "text": "",
+            "backgroundColor": null,
+            "borderColor": null,
+            "fontColor": null,
+            "icon": "http://p1.meituan.net/groupop/af71bbba0c83b6693e9f52645bb1cf3c660.png",
+            "message": "60元/券，单间，60元/券，普通房间，100元/券，豪华套房，108元/券，大型短毛宠物犬洗澡游泳套餐，128元/券，大型宠物犬游泳洗澡套餐"
+          },
+          {
+            "text": "",
+            "backgroundColor": null,
+            "borderColor": null,
+            "fontColor": null,
+            "icon": "http://p0.meituan.net/groupop/348758503e87285267788a5d5b64d777779.png",
+            "message": "180代200元"
+          }
+        ],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 55762402,
+            "title": "200代金券",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 180.0,
+            "value": 200.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 607178390,
+            "title": "小型宠物犬游泳洗澡套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 66.0,
+            "value": 80.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 607178199,
+            "title": "大型宠物犬游泳洗澡套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 128.0,
+            "value": 140.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 607173613,
+            "title": "大型短毛宠物犬洗澡游泳套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 108.0,
+            "value": 120.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55262262,
+            "title": "单间",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 60.0,
+            "value": 120.0,
+            "sales": 1.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55259274,
+            "title": "普通房间",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 60.0,
+            "value": 100.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55261640,
+            "title": "豪华套房",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 100.0,
+            "value": 160.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 1,
+        "city": "北京",
+        "full": false
+      },
+      {
+        "id": 165272404,
+        "template": "pcfood",
+        "imageUrl": "http://p0.meituan.net/w.h/dpdeal/c698388d00473af20982aac7e7768e6a99676.jpg",
+        "title": "派多格宠物（下元店）",
+        "address": "怀柔区于家园二区南院7号楼3单元102室底商",
+        "lowestprice": 99.0,
+        "avgprice": 0.0,
+        "latitude": 40.328534,
+        "longitude": 116.643663,
+        "showType": "easylife",
+        "avgscore": 3.5,
+        "comments": 1,
+        "historyCouponCount": 1,
+        "backCateName": "宠物店",
+        "areaname": "怀柔城区",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 50740914,
+            "title": "宠物美毛强壮骨骼营养套餐(全犬型通用)",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 208.0,
+            "value": 390.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 50518214,
+            "title": "贵妇比熊雪纳瑞洗澡美容美甲",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 99.0,
+            "value": 150.0,
+            "sales": 1.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 0,
+        "city": "",
+        "full": false
+      },
+      {
+        "id": 73176953,
+        "template": "pcfood",
+        "imageUrl": "http://vfile.meituan.net/w.h/joymerchant/-2683889696445332396-40582432-1532570984252.jpg",
+        "title": "萌宝宠物生活馆",
+        "address": "通州区临河里华业东方玫瑰B区53号楼底商101号",
+        "lowestprice": 0.0,
+        "avgprice": 66.0,
+        "latitude": 39.87922,
+        "longitude": 116.6862,
+        "showType": "easylife",
+        "avgscore": 4.5,
+        "comments": 16,
+        "historyCouponCount": 155,
+        "backCateName": "宠物店",
+        "areaname": "梨园",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 55057235,
+            "title": "0-5公斤小型犬美容",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 128.0,
+            "value": 150.0,
+            "sales": 13.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 80011273,
+            "title": "猫咪洗澡+剃毛",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 220.0,
+            "value": 300.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 51250602,
+            "title": "0-5小型犬洗澡",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 48.0,
+            "value": 60.0,
+            "sales": 49.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 52093909,
+            "title": "猫咪洗澡",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 130.0,
+            "value": 150.0,
+            "sales": 8.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 52399455,
+            "title": "小型犬洁牙",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 298.0,
+            "value": 398.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 80011144,
+            "title": "猫咪剃毛",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 130.0,
+            "value": 150.0,
+            "sales": 3.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 55057207,
+            "title": "5-10公斤小型犬美容",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 148.0,
+            "value": 180.0,
+            "sales": 2.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 51250584,
+            "title": "中大型犬寄养",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 70.0,
+            "value": 100.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 1,
+        "city": "北京",
+        "full": false
+      },
+      {
+        "id": 159637213,
+        "template": "pcfood",
+        "imageUrl": "https://p1.meituan.net/w.h/merchantpic/85148d00de3f2bb413b1a305f41699a92086245.jpg",
+        "title": "多宝宠物",
+        "address": "大兴区大雄郁金香舍北门（博大公园南门）",
+        "lowestprice": 11.9,
+        "avgprice": 127.0,
+        "latitude": 39.793916,
+        "longitude": 116.501764,
+        "showType": "easylife",
+        "avgscore": 5.0,
+        "comments": 77,
+        "historyCouponCount": 1139,
+        "backCateName": "宠物店",
+        "areaname": "亦庄",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [
+          {
+            "text": "",
+            "backgroundColor": null,
+            "borderColor": null,
+            "fontColor": null,
+            "icon": "http://p1.meituan.net/groupop/af71bbba0c83b6693e9f52645bb1cf3c660.png",
+            "message": "145元/券，小型犬美容套餐，48元/券，小型犬精品洗护，48元/券，狗狗寄养标间1天，98元/券，-喵星人洗护套餐，198元/券，小型犬洗澡SPA美容体验套餐"
+          }
+        ],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 46099534,
+            "title": "小型犬美容套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 145.0,
+            "value": 150.0,
+            "sales": 197.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 46099597,
+            "title": "小型犬精品洗护",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 48.0,
+            "value": 50.0,
+            "sales": 161.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 53133635,
+            "title": "狗狗寄养标间1天",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 48.0,
+            "value": 50.0,
+            "sales": 113.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 52708032,
+            "title": "喵星人洗护套餐（全自动烘干机）",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 98.0,
+            "value": 120.0,
+            "sales": 40.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 46099658,
+            "title": "小型犬洗澡SPA美容体验套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 198.0,
+            "value": 218.0,
+            "sales": 6.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 46099624,
+            "title": "洁牙SPA-无需麻醉去除牙结石",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 239.0,
+            "value": 298.0,
+            "sales": 5.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 54515001,
+            "title": "足部护理套餐（犬猫通用）",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 11.9,
+            "value": 30.0,
+            "sales": 3.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 1,
+        "city": "北京",
+        "full": false
+      },
+      {
+        "id": 185606097,
+        "template": "pcfood",
+        "imageUrl": "https://p0.meituan.net/w.h/merchantpic/e8257e08470ab1b450a08c2277f48aea355278.jpg",
+        "title": "乐吉宠物寄养度假酒店",
+        "address": "通州区永乐店镇永乐店二村83号",
+        "lowestprice": 45.0,
+        "avgprice": 0.0,
+        "latitude": 39.653607,
+        "longitude": 116.797456,
+        "showType": "easylife",
+        "avgscore": 3.0,
+        "comments": 0,
+        "historyCouponCount": 1,
+        "backCateName": "宠物店",
+        "areaname": "通州区",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 55179249,
+            "title": "乐吉宠物主题房",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 128.0,
+            "value": 168.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 54686318,
+            "title": "中型犬专业洗护",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 68.0,
+            "value": 198.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 54418326,
+            "title": "小型犬精心洗护",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 45.0,
+            "value": 98.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 54701288,
+            "title": "花园玻璃洋房（大）",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 168.0,
+            "value": 258.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 54701427,
+            "title": "花园玻璃洋房（中）",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 138.0,
+            "value": 198.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 54815212,
+            "title": "花园玻璃洋房（小）",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 108.0,
+            "value": 128.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 0,
+        "city": "",
+        "full": false
+      },
+      {
+        "id": 193449325,
+        "template": "pcfood",
+        "imageUrl": "https://p0.meituan.net/w.h/merchantpic/80cb0c0c2d51dcb3ed265bb89f05507789681.jpg",
+        "title": "臻悦宠物生活馆",
+        "address": "昌平区北七家镇立汤路58号宝迪商业中心",
+        "lowestprice": 30.0,
+        "avgprice": 0.0,
+        "latitude": 40.117524,
+        "longitude": 116.412166,
+        "showType": "easylife",
+        "avgscore": 4.0,
+        "comments": 2,
+        "historyCouponCount": 26,
+        "backCateName": "宠物店",
+        "areaname": "北七家",
+        "tag": [],
+        "cate": [
+          3,
+          20691,
+          20630
+        ],
+        "recentScreen": null,
+        "abstracts": [
+          {
+            "text": "",
+            "backgroundColor": null,
+            "borderColor": null,
+            "fontColor": null,
+            "icon": "http://p1.meituan.net/groupop/af71bbba0c83b6693e9f52645bb1cf3c660.png",
+            "message": "219元/券，泰迪比熊B级洗美套餐，30元/券，小型犬游泳，50元/券，大型犬游泳，159元/券，金毛拉布拉多高端洗护套餐，199元/券，博美马尔济斯B级洗美套餐"
+          }
+        ],
+        "dangleAbstracts": null,
+        "titleTags": [],
+        "iUrl": null,
+        "deals": [
+          {
+            "id": 602062178,
+            "title": "泰迪比熊B级洗美套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 219.0,
+            "value": 315.0,
+            "sales": 6.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 603294573,
+            "title": "金毛拉布拉多高端洗护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 159.0,
+            "value": 255.0,
+            "sales": 2.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 602954579,
+            "title": "小型犬游泳",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 30.0,
+            "value": 40.0,
+            "sales": 2.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 602974747,
+            "title": "大型犬游泳",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 50.0,
+            "value": 60.0,
+            "sales": 2.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 603343820,
+            "title": "博美马尔济斯B级洗美套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 199.0,
+            "value": 295.0,
+            "sales": 1.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 602981008,
+            "title": "小型犬高端寄养",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 59.0,
+            "value": 119.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 603347089,
+            "title": "阿拉斯加高端洗护套餐",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 269.0,
+            "value": 365.0,
+            "sales": 1.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 602984407,
+            "title": "中型犬高端寄养",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 79.0,
+            "value": 139.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 602970294,
+            "title": "大型犬高端寄养",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 99.0,
+            "value": 159.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          },
+          {
+            "id": 602970493,
+            "title": "巨型犬高端寄养",
+            "subtitleA": null,
+            "subtitleB": null,
+            "subtitleC": null,
+            "price": 129.0,
+            "value": 189.0,
+            "sales": 0.0,
+            "iUrl": "",
+            "stid": null,
+            "trace": null,
+            "tag": {
+              "promotion": []
+            }
+          }
+        ],
+        "posdescr": null,
+        "ct_poi": null,
+        "trace": null,
+        "landmarkDistance": null,
+        "hasAds": false,
+        "adsClickUrl": "",
+        "adsShowUrl": "",
+        "distance": "",
+        "cityId": 0,
+        "city": "",
+        "full": false
+      }
+    ],
+    "recommendResult": [],
+    "cardExtension": {},
+    "extraInfoCinema": null,
+    "serverInfo": {
+      "traceId": "228a6702-c490-43ac-ba40-de4b79fbaf5e",
+      "searchId": "6037566605774021661",
+      "globalId": "3183566018699121044",
+      "queryId": "5775688275804905531"
+    },
+    "stid": null
+  }
+}
